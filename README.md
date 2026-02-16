@@ -11,3 +11,5 @@ sudo apt install nginx
 
 sudo systemcl start nginx
 sudo systemctl enable nginx
+
+webpage is kept at /var/www/nginx
