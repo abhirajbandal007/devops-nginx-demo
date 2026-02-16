@@ -1,5 +1,7 @@
 # DevOps NGINX Demo
 
+NGINX is open source software that powers web servers and enables reverse proxying, caching, load balancing, and media streaming. It was originally designed as a web server with high performance and reliability.
+
 ## Intro
 
 This project helps you install nginx on linux and then show a demo page
